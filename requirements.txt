@@ -1,2 +1,4 @@
-yfiance
+streamlit
+yfinance
+pandas
 plotly
